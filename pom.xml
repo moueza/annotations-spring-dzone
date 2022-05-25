@@ -42,7 +42,7 @@
 		<thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
 		<thymeleaf-layout-dialect.version>2.2.1</thymeleaf-layout-dialect.version>
 
-		<springsecu.version>5.1.5.RELEASE</springsecu.version>
+		<springsecu.version>5.5.7</springsecu.version>
 
 		<hibernate.version>5.3.7.Final</hibernate.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
